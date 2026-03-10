@@ -1,0 +1,8 @@
+# adversary-keys: one line per adversary: username pubkey [comment]
+# Copy to adversary-keys (gitignored) and add real public keys before deploying.
+#
+# moist    ssh-ed25519 AAAA... adversary1@team
+# teatime  ssh-ed25519 AAAA... adversary2@team
+# carrot   ssh-ed25519 AAAA... adversary3@team
+# angua    ssh-ed25519 AAAA... adversary4@team
+# vimes    ssh-ed25519 AAAA... adversary5@team
